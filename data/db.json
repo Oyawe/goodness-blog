@@ -17,12 +17,6 @@
       "body": "JavaScript is a versatile and widely-used programming language primarily used for web development. It was introduced to bring interactivity to web pages and enable dynamic content. As a client-side scripting language, it runs directly in the user's web browser, allowing developers to manipulate HTML and CSS elements, handle events, and create responsive user interfaces. JavaScript is known for its easy integration with HTML and its flexibility in supporting different programming paradigms, including procedural, object-oriented, and functional programming. It also has a vast ecosystem of libraries and frameworks, such as React, Angular, and Vue.js, which streamline web development and enable the creation of interactive and feature-rich web applications. Additionally, JavaScript has expanded its domain beyond the browser with the introduction of Node.js, enabling developers to build server-side applications. Its ubiquity and continuous updates make it a fundamental language for both beginner and experienced developers alike.",
       "author": "Tomisona",
       "id": 3
-    },
-    {
-      "title": "A funny tweet on how hard it is to debug",
-      "body": "\"Debugging code feels like being a detective in a comedy show – you follow the clues, chase red herrings, and just when you think you've cracked the case, BAM! Another bug pops up like, 'Surprise, I'm here to ruin your day!' 🕵️‍♂️🔍😂 #DebuggingLife #CodeMysteries #ComedyOfErrors\"",
-      "author": "Goodness",
-      "id": 4
     }
   ]
 }
