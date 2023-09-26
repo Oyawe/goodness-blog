@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* base styles */
 * {
@@ -27,6 +27,7 @@
 }
 .navbar a:hover {
   color: #00a8e8;
+  transition: ease-out;
 }
 .content {
   max-width: 600px;
@@ -35,37 +36,37 @@
 }
 
 /* blog preview list */
-.blog-list h2{
+.blog-list h2 {
   color: #5d5c5c;
 }
-.blog-preview{
+.blog-preview {
   padding: 10px 16px;
   margin: 20px 0;
   border-bottom: 2px solid #fafafa;
 }
-.blog-preview:hover{
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
-.blog-preview h2{
+.blog-preview h2 {
   font-size: 20px;
   color: #00a8e8;
   margin-bottom: 8px;
 }
-.blog-preview a{
+.blog-preview a {
   text-decoration: none;
 }
 
 /* blog-details page */
-.blog-details h2{
+.blog-details h2 {
   font-size: 20px;
   color: #00a8e8;
   margin-bottom: 10px;
 }
-.blog-details div{
+.blog-details div {
   margin: 20px 0;
 }
 
-.blog-details button{
+.blog-details button {
   background: #00a8e8;
   color: #fff;
   border: 0;
@@ -74,24 +75,26 @@
   cursor: pointer;
 }
 /* create new blog form */
-.create{
+.create {
   max-width: 400px;
   margin: 0 auto;
   text-align: center;
 }
 
-.create label{
+.create label {
   text-align: left;
   display: block;
 }
 
-.create h2{
+.create h2 {
   font-size: 20px;
   color: #00a8e8;
   margin-bottom: 30px;
 }
 
-.create input, .create textarea, .create select{
+.create input,
+.create textarea,
+.create select {
   width: 100%;
   padding: 6px 10px;
   margin: 10px 0;
@@ -100,7 +103,7 @@
   display: block;
 }
 
-.create button{
+.create button {
   background: #00a8e8;
   color: #fff;
   border: 0;
@@ -110,13 +113,13 @@
 }
 
 /* 404-page styling */
-.err-link{
+.err-link {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.err-link a{
+.err-link a {
   text-decoration: none;
   background: #00a8e8;
   color: #fff;
@@ -124,7 +127,7 @@
   border-radius: 10px;
 }
 
-.not-found p{
+.not-found p {
   margin-top: 3px;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
